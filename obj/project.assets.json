@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ITEA_3\\ITEA_3.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\itea_git_tasks\\ITEA_3.csproj",
       "projectName": "ITEA_3",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ITEA_3\\ITEA_3.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\itea_git_tasks\\ITEA_3.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ITEA_3\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\itea_git_tasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
