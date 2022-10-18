@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SoftwareTask\bin\Debug\net6.0\SoftwareTask.exe
+C:\Users\User\source\repos\SoftwareTask\bin\Debug\net6.0\SoftwareTask.deps.json
+C:\Users\User\source\repos\SoftwareTask\bin\Debug\net6.0\SoftwareTask.runtimeconfig.json
+C:\Users\User\source\repos\SoftwareTask\bin\Debug\net6.0\SoftwareTask.dll
+C:\Users\User\source\repos\SoftwareTask\bin\Debug\net6.0\SoftwareTask.pdb
+C:\Users\User\source\repos\SoftwareTask\obj\Debug\net6.0\SoftwareTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftwareTask\obj\Debug\net6.0\SoftwareTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftwareTask\obj\Debug\net6.0\SoftwareTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftwareTask\obj\Debug\net6.0\SoftwareTask.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftwareTask\obj\Debug\net6.0\SoftwareTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftwareTask\obj\Debug\net6.0\SoftwareTask.dll
+C:\Users\User\source\repos\SoftwareTask\obj\Debug\net6.0\refint\SoftwareTask.dll
+C:\Users\User\source\repos\SoftwareTask\obj\Debug\net6.0\SoftwareTask.pdb
+C:\Users\User\source\repos\SoftwareTask\obj\Debug\net6.0\SoftwareTask.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftwareTask\obj\Debug\net6.0\ref\SoftwareTask.dll
