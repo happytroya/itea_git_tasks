@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Hometask\ExceptionsTask\bin\Debug\net6.0\ExceptionsTask.exe
+C:\Users\User\source\repos\Hometask\ExceptionsTask\bin\Debug\net6.0\ExceptionsTask.deps.json
+C:\Users\User\source\repos\Hometask\ExceptionsTask\bin\Debug\net6.0\ExceptionsTask.runtimeconfig.json
+C:\Users\User\source\repos\Hometask\ExceptionsTask\bin\Debug\net6.0\ExceptionsTask.dll
+C:\Users\User\source\repos\Hometask\ExceptionsTask\bin\Debug\net6.0\ExceptionsTask.pdb
+C:\Users\User\source\repos\Hometask\ExceptionsTask\obj\Debug\net6.0\ExceptionsTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Hometask\ExceptionsTask\obj\Debug\net6.0\ExceptionsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Hometask\ExceptionsTask\obj\Debug\net6.0\ExceptionsTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Hometask\ExceptionsTask\obj\Debug\net6.0\ExceptionsTask.AssemblyInfo.cs
+C:\Users\User\source\repos\Hometask\ExceptionsTask\obj\Debug\net6.0\ExceptionsTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hometask\ExceptionsTask\obj\Debug\net6.0\ExceptionsTask.dll
+C:\Users\User\source\repos\Hometask\ExceptionsTask\obj\Debug\net6.0\refint\ExceptionsTask.dll
+C:\Users\User\source\repos\Hometask\ExceptionsTask\obj\Debug\net6.0\ExceptionsTask.pdb
+C:\Users\User\source\repos\Hometask\ExceptionsTask\obj\Debug\net6.0\ExceptionsTask.genruntimeconfig.cache
+C:\Users\User\source\repos\Hometask\ExceptionsTask\obj\Debug\net6.0\ref\ExceptionsTask.dll
