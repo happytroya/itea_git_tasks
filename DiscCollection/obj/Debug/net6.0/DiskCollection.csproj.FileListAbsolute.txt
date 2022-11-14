@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Hometask\DiscCollection\bin\Debug\net6.0\DiskCollection.exe
+C:\Users\User\source\repos\Hometask\DiscCollection\bin\Debug\net6.0\DiskCollection.deps.json
+C:\Users\User\source\repos\Hometask\DiscCollection\bin\Debug\net6.0\DiskCollection.runtimeconfig.json
+C:\Users\User\source\repos\Hometask\DiscCollection\bin\Debug\net6.0\DiskCollection.dll
+C:\Users\User\source\repos\Hometask\DiscCollection\bin\Debug\net6.0\DiskCollection.pdb
+C:\Users\User\source\repos\Hometask\DiscCollection\obj\Debug\net6.0\DiskCollection.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Hometask\DiscCollection\obj\Debug\net6.0\DiskCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Hometask\DiscCollection\obj\Debug\net6.0\DiskCollection.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Hometask\DiscCollection\obj\Debug\net6.0\DiskCollection.AssemblyInfo.cs
+C:\Users\User\source\repos\Hometask\DiscCollection\obj\Debug\net6.0\DiskCollection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hometask\DiscCollection\obj\Debug\net6.0\DiskCollection.dll
+C:\Users\User\source\repos\Hometask\DiscCollection\obj\Debug\net6.0\refint\DiskCollection.dll
+C:\Users\User\source\repos\Hometask\DiscCollection\obj\Debug\net6.0\DiskCollection.pdb
+C:\Users\User\source\repos\Hometask\DiscCollection\obj\Debug\net6.0\DiskCollection.genruntimeconfig.cache
+C:\Users\User\source\repos\Hometask\DiscCollection\obj\Debug\net6.0\ref\DiskCollection.dll
