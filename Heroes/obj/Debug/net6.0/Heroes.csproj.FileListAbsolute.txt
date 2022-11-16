@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Heroes\bin\Debug\net6.0\Heroes.exe
+C:\Users\User\source\repos\Heroes\bin\Debug\net6.0\Heroes.deps.json
+C:\Users\User\source\repos\Heroes\bin\Debug\net6.0\Heroes.runtimeconfig.json
+C:\Users\User\source\repos\Heroes\bin\Debug\net6.0\Heroes.dll
+C:\Users\User\source\repos\Heroes\bin\Debug\net6.0\Heroes.pdb
+C:\Users\User\source\repos\Heroes\obj\Debug\net6.0\Heroes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Heroes\obj\Debug\net6.0\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Heroes\obj\Debug\net6.0\Heroes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Heroes\obj\Debug\net6.0\Heroes.AssemblyInfo.cs
+C:\Users\User\source\repos\Heroes\obj\Debug\net6.0\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Heroes\obj\Debug\net6.0\Heroes.dll
+C:\Users\User\source\repos\Heroes\obj\Debug\net6.0\refint\Heroes.dll
+C:\Users\User\source\repos\Heroes\obj\Debug\net6.0\Heroes.pdb
+C:\Users\User\source\repos\Heroes\obj\Debug\net6.0\Heroes.genruntimeconfig.cache
+C:\Users\User\source\repos\Heroes\obj\Debug\net6.0\ref\Heroes.dll
